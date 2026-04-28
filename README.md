@@ -1,4 +1,5 @@
 **🧠 Adidas Customer Support WhatsApp Bot (n8n + AI)**
+<img width="1901" height="964" alt="Screenshot 2026-04-28 163733" src="https://github.com/user-attachments/assets/cbda5d71-b06a-4da0-ab8f-924510441ac2" />
 
 An AI-powered WhatsApp customer support assistant built using n8n, Twilio, and a LLM (via Groq).
 This bot automates customer interactions for Adidas, handling FAQs, order tracking, and support ticket creation in real time.
